@@ -1,14 +1,21 @@
 # music
 Generate sounds using SFML.
 
-Compile using:
+Dependencies
+------------
+
+`libsfml-dev cmake` (Debian-based distributions)
+
+Compile instructions
+--------------------
 
 1. `mkdir build`
 2. `cd build`
 3. `cmake ..`
 4. `make`
 
-Run using:
+Usage instructions
+------------------
 
 `./music`
 Press any key.
